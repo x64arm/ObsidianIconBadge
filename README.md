@@ -1,0 +1,2 @@
+# ObsidianIconBadge
+Obsidian笔记obsidian-icons-plugin插件的Windows客户端扩展插件
